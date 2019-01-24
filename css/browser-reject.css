@@ -1,0 +1,33 @@
+.old-browser {
+    margin: 0 auto;
+    padding-top: 100px;
+    display: none;
+    width: 600px;
+    font-family: arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.old-browser li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.old-browser p {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.old-browser h1 {
+    font-size: 30px;
+}
+
+.old-browser h2 {
+    font-size: 12px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+.old-browser ul {
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+}

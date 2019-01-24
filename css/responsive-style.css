@@ -1,0 +1,65 @@
+@media (max-width: 768px) {
+    .scroller-content {
+        padding: 4% 8%;
+        height: 480px;
+    }
+
+    .item-2 {
+        border: none;
+    }
+
+    .scroll-left, .scroll-right {
+        top: 50%;
+        margin-top: -30px;
+    }
+
+    .scroll-left {
+        left: 5px;
+    }
+
+    .scroll-right {
+        right: 5px;
+    }
+
+    .slider-content img {
+        max-height: 200px;
+    }
+    .slider-content h1 {
+        font-size: 30px;
+    }
+
+    .slider-content {
+        text-align: center;
+    }
+    .slider-content p {
+        text-align: justify;
+    }
+
+    .logo {
+        padding-left: 60px;
+        font-size: 42px;
+    }
+    .main-footer {
+        padding: 40px 10px;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+    .scroll-left {
+        left: 5px;
+    }
+
+    .scroll-right {
+        right: 5px;
+    }
+
+    .menu-container {
+        font-size: 18px;
+    }
+
+    .menu-container a::before {
+        left: -17px;
+    }
+}

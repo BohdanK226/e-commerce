@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #fff8e0;
+}
+h1{
+    padding: 10px;
+    margin-top: 80px;
+    font-size: 34px;
+    background-color: #ffa4c0;
+    border: 1px solid red;
+    color: darkred;
+    border-radius: 15px;
+}
+
+span {
+    font-size: 70px;
+    color: darkred;
+}
